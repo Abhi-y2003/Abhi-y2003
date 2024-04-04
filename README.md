@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek singh<br> and I'm a Fullstack Developer<br> From India.</h2>
+<h2 align="left">Hi 👋! I am Abhishek singh<br> A Fullstack Developer<br> From India.</h2>
 
 ###
 
@@ -38,6 +38,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Abhi-y2003/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Abhi-y2003/Abhi-y2003/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi-y2003&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abhi-y2003&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
